@@ -106,19 +106,6 @@ html {
 
 }
 
-.links {
-    display: inline;
-    padding-left: 33px;
-    padding-right: 25px;
-    font-family: fantasy;
-    font-size: 20px
-}
-
-.links hover {
-    font-size: 25px;
-    text-decoration: underline;
-}
-
 .navbar-fixed-top {
     position: sticky;
 }
