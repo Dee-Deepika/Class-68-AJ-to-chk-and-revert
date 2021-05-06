@@ -103,7 +103,9 @@ html {
     text-shadow: none;
 }
 .contact_2{
-background:brickred;
+background-color:brickred;
+    color:white;
+    
 }
 
 
