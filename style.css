@@ -111,7 +111,6 @@ background-color:brickred;
 
 .my_nav_bar {
     top: 0;
-    position: fixed;
     z-index: 99999;
     width: 100%;
 
