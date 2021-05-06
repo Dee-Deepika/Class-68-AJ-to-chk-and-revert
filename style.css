@@ -39,7 +39,7 @@ h1 {
 
 }
 
-h2 {
+h2 h5 {
     font-size: 30px;
     font-weight: 300;
     font-family: monospace;
@@ -47,7 +47,6 @@ h2 {
 
 #bio {
     font-family: 'Cinzel Decorative', cursive;
-
     padding: 50px;
     text-align: center;
 }
@@ -98,7 +97,7 @@ html {
     color: white;
     text-shadow: none;
 }
-#contact_2{
+.contact_2{
 background-color:brickred;
     color:white;
     
