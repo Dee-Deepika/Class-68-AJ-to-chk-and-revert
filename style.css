@@ -88,7 +88,11 @@ html {
 #contact iframe {
     width: 100%;
 }
-
+.navbar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
 .contact_1 h3 {
     display: inline;
 }
