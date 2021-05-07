@@ -10,7 +10,6 @@ body {
 }
 
 #welcome {
-
     position: absolute;
     color: #FFFFFF;
     bottom: 0;
@@ -21,8 +20,6 @@ body {
     z-index: 9;
 
 }
-
-
 
 h1 {
 
@@ -80,35 +77,19 @@ html {
     color: fuchsia;
 }
 
-#contact {
-    background-color: firebrick;
-}
-
 #contact iframe {
-    width: 100%;
+    width: 90%;
 }
 
-.contact_1 h3 {
-    display: inline;
+.contact_1 {
+    display: in-line;
+     background-color: firebrick;
 }
 
-.contact_1 a {
-    background:brickred;
-    
-    text-shadow: none;
-}
-.contact_2{
-background-color:brickred;
-    
-    
-}
-.navbar{
- position:fixed;
-    top:0;
-    z-index:99999;
-    width: 100%;
+.contact_2 {
+      text-shadow: none;
 }
 
 input {
-    background: gray;
+    background-color: grey;
 } 
